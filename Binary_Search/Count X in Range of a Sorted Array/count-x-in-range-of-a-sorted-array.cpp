@@ -1,4 +1,4 @@
-class Solution { 
+class Solution {  
   public:
    vector<int> countXInRange(vector<int>& arr, vector<vector<int>>& queries) {
 

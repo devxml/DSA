@@ -4,7 +4,7 @@
 Number 5 occurs 3 times.
 Query [1, 2, 2] → subarray is [2, 2], and 2 occurs 2 times.
 Query [0, 3, 7] → subarray is [1, 2, 2, 4], and 7 is not present.</span></pre>
-<pre class="MsoNormal"><span style="font-size: 14pt;"><strong>Input: </strong>arr[] = [1, 3, 3, 3, 6, 7, 8], queries[][] = [[0, 3, 3], [4, 6, 3], [1, 5, 6]]
+<pre class="MsoNormal"><span style="font-size: 14pt;"><strong>Input: </strong>arr[] = [1, 3, 3, 3, 6, 7, 8], queries[][] = [[0, 3, 3], [4, 6, 3], [1, 5, 6]] 
 <strong>Output:</strong> [3, 0, 1]
 <strong>Explanation:</strong>
 Query [0, 3, 3] → subarray [1, 3, 3, 3], and 3 appears 3 times.
