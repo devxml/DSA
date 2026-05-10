@@ -1,4 +1,4 @@
-class Solution {
+class Solution { 
   public:
     int binarySearchable(vector<int> &arr) {
     const int size = arr.size();
