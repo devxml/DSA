@@ -16,7 +16,7 @@ class Solution {
         auto lastIndex = [&](int l, int r) {
             int ans = -1;
             while (l <= r) {
-                int mid = (l + r) / 2;
+                int mid = (l + r) / 2; 
                 if (arr[mid] <= x) {
                     ans = mid;
                     l = mid + 1;
