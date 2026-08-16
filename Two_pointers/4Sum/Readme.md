@@ -5,7 +5,7 @@ a, b, c, and d are distinct.
 nums[a] + nums[b] + nums[c] + nums[d] == target
 You may return the answer in any order.
 
- 
+  
 
 Example 1:
 
